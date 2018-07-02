@@ -11,7 +11,7 @@ Run this code on Python Terminal ,
 Take the frames that you wanna crop one by one and save it in the same directory!
 Don't forget to change the name of cropped image , as when you will save the next cropped frame ,
 it will overwrite, so to avoid that, just rename!
-run the code : python capture_events.py --image jimgf148.jpg
+run the code : python Crop_Object.py --image jimgf148.jpg
 @author: Alan Darko , IIIT Bh
 '''
 
